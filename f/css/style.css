@@ -1,0 +1,16 @@
+.adm-photoeditor-btn-img-positioner .adm-photoeditor-btn-icon {
+	background-image: url(../img/icon-control.png);
+	background-position: 0 0;
+}
+
+.adm-photoeditor-btn-img-positioner.active {
+	background-color: rgba(66, 153, 243, 0.16);
+}
+
+.img-positioner-info {
+	position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 10px;
+    text-align: right;
+}
